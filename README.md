@@ -1,0 +1,2 @@
+# BNewsApp
+Basic News Application
